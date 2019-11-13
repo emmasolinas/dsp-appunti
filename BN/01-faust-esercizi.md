@@ -4,7 +4,7 @@
 
 ```
 import("stdfaust.lib");
-process =
+process = +, -, *, /;
 ```
 
 ##### 2. Scrivi un programma che utilizzi i quattro operatori matematici in serie
